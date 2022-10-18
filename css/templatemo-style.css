@@ -842,7 +842,10 @@ p {
 }
 
 
-
+.footer {
+  text-align: center;
+  background-color: black;
+}
 
 /*Spline*/
 .SeperatorClass {
