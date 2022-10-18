@@ -180,16 +180,17 @@ small {
 }
 
 .tm-home-left {
-  max-width: 420px;
+  max-width: 80%;
   width: 100%;
-  margin-right: 170px;
-  margin-left: 170px;
+  /* margin-right: 10%;
+  margin-left: 10%; */
+  margin: auto 10%;
 }
 
 .tm-home-right{
   width: 100%;
   max-width: 420px;
-  margin-right: 170px;
+  margin-right: 10%;
 }
 
 .tm-home-container {
