@@ -855,3 +855,12 @@ p {
 .model-3d{
 
 }
+
+
+.fa-duotone{
+  transform: scale(4.2);
+}
+
+.leadimg{
+  margin: 13%;
+}
