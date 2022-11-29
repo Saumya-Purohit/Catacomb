@@ -194,6 +194,10 @@ small {
  width: 50%;
  padding: 10px;
 }
+.tm-toadjust{
+  margin: auto;
+  
+}
 .tm-home-container {
   display: flex;
   align-items: center;
