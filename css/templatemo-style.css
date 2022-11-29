@@ -198,6 +198,10 @@ small {
   margin: auto;
   
 }
+.toalign{
+  margin: auto;
+  margin-top: 50px;
+}
 .tm-home-container {
   display: flex;
   align-items: center;
