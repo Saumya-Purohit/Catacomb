@@ -6,4 +6,4 @@ Technology Stack: Employed AWS-Cognito, S3, Elastic Beanstalk, IAM, MongoDB, Jav
 
 ![image](https://github.com/Saumya-Purohit/Catacomb/assets/106332064/dcbfc0a4-9529-4041-9c4a-89b4be9c6e6b)
 
-Visit project functionality:-![video](https://www.youtube.com/watch?v=VspgJmjc4KY)
+Visit project functionality:-[![Watch the video](https://www.youtube.com/watch?v=VspgJmjc4KY)
